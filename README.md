@@ -6,7 +6,7 @@ This repository is for improving the GAIL which is called WDAIL.
 People should download the [Mojoco demostrations](https://data.mendeley.com/datasets/w7m95wwrb5/1) and put is in WDAIL\data,
 or you can get the \data\baseline from the [openai\baseline](https://github.com/openai/baselines) 
 and the \data\ikostrikov frome the [ikostrikov/pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail),
-or you can produce the demostrations using our [PPO_pytorch](https://github.com/mingzhangPHD/RL-trip-pytorch)
+or you can produce the demonstrations using our [PPO_pytorch](https://github.com/mingzhangPHD/RL-trip-pytorch)
 
 Then, you can run wdail_ant.py, wdail_halfcheetah...in ppo_wdail and ppo_wdail_BL.
 
