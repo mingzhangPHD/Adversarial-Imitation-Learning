@@ -21,12 +21,19 @@ The paper is as follow:
 If you use this code and datasets for your research, please consider citing:
 
 ```
-@article{zhang2020wasserstein,
-  title={Wasserstein Distance guided Adversarial Imitation Learning with Reward Shape Exploration},
-  author={Zhang, Ming and Wang, Yawei and Ma, Xiaoteng and Xia, Li and Yang, Jun and Li, Zhiheng and Li, Xiu},
-  journal={arXiv preprint arXiv:2006.03503},
-  year={2020}
-}
+@INPROCEEDINGS{9275169,
+  author={M. {Zhang} and Y. {Wang} and X. {Ma} and L. {Xia} and J. {Yang} and Z. {Li} and X. {Li}},
+  booktitle={2020 IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)}, 
+  title={Wasserstein Distance guided Adversarial Imitation Learning with Reward Shape Exploration}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1165-1170},
+  abstract={The generative adversarial imitation learning (GAIL) has provided an adversarial learning framework for imitating expert policy from demonstrations in high-dimensional continuous tasks. However, almost all GAIL and its extensions only design a kind of reward function of logarithmic form in the adversarial training strategy with the Jensen-Shannon (JS) divergence for all complex environments. The fixed logarithmic type of reward function may be difficult to solve all complex tasks, and the vanishing gradients problem caused by the JS divergence will harm the adversarial learning process. In this paper, we propose a new algorithm named Wasserstein Distance guided Adversarial Imitation Learning (WDAIL) for promoting the performance of imitation learning (IL). There are three improvements in our method: (a) introducing the Wasserstein distance to obtain more appropriate measure in adversarial training process, (b) using proximal policy optimization (PPO) in the reinforcement learning stage which is much simpler to implement and makes the algorithm more efficient, and (c) exploring different reward function shapes to suit different tasks for improving the performance. The experiment results show that the learning procedure remains remarkably stable, and achieves significant performance in the complex continuous control tasks of MuJoCo1.},
+  keywords={Shape;Task analysis;Optimization;Generative adversarial networks;Training;Q measurement;Reinforcement learning;Generative Adversarial Imitation Learning;Proximal Policy Optimization;Wasserstein Distance;Reward Shaping},
+  doi={10.1109/DDCLS49620.2020.9275169},
+  ISSN={},
+  month={Nov},}
 ```
 
 # Contact
