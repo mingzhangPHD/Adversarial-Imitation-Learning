@@ -14,7 +14,7 @@ Finally, you can get the results.
 
 The paper is as follow:
 
-[Wasserstein Distance guided Adversarial Imitation Learning (WDAIL) with Reward Shape Exploration](https://arxiv.org/abs/2006.03503).
+[Wasserstein Distance guided Adversarial Imitation Learning (WDAIL) with Reward Shape Exploration](https://ieeexplore.ieee.org/document/9275169).
 
 # Citation
 
